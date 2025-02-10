@@ -1,0 +1,18 @@
+
+services:
+  cp-db:
+    container_name: cp-db
+    image: postgres:16.6
+    restart: unless-stopped
+    ports:
+      - 5432:5432
+    volumes:
+      - cp-db:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: python
+      POSTGRES_USER: python
+      POSTGRES_DB: python
+      ALLOW_IP_RANGE: 0.0.0.0/32
+
+volumes:
+  cp-db:

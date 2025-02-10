@@ -1,0 +1,3 @@
+Ciao, questo è un esempio di scrittura in un file.
+Python è potente!
+Questa è una nuova riga aggiunta.

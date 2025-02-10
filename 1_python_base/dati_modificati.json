@@ -1,0 +1,11 @@
+{
+    "nome": "Alice",
+    "età": 26,
+    "città": "Roma",
+    "hobby": [
+        "lettura",
+        "viaggi",
+        "pittura",
+        "cucina"
+    ]
+}

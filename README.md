@@ -9,4 +9,5 @@ Questo corso copre i fondamenti di Python con un focus su applicazioni di intell
 - [Guida Python](./books/python-guide.pdf)
 - [Think Python](./books/thinkpython.pdf)
 - [Python per tutti](./books/pythonlearn.pdf)
+- [Machine-Learning-Workshop-2nd-Edition](./books/Machine-Learning-Workshop-2nd-Edition.pdf)
 - [I libri su Python](https://www.python.it/doc/libri)
